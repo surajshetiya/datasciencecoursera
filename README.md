@@ -1,4 +1,4 @@
-datasciencecoursera
+##Data Science
 ===================
 
-This repo is used for learning in "Data Scientist's toolbox" course in coursera
+This repo is used for learning in "Data Science" at coursera.com
